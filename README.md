@@ -4,7 +4,7 @@
 **Transcribe Pro** is a Flask-based web application that provides a simple interface for transcribing both audio and video files using Azure's Speech-to-Text API. It includes upload support, history tracking, and is deployable on cloud platforms for scalable use. 
  
 ## 🚀 Features    
-      
+       
 - 🎧 Audio & 🎥 Video transcription support   
 - 📂 Upload files (MP3, MP4, WAV)     
 - 🧠 Uses Azure Speech-to-Text for accurate output   
