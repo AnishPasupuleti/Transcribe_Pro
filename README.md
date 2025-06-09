@@ -5,7 +5,7 @@
  
 ## 🚀 Features    
        
-- 🎧 Audio & 🎥 Video transcription support   
+- 🎧 Audio & 🎥 Video transcription support    
 - 📂 Upload files (MP3, MP4, WAV)     
 - 🧠 Uses Azure Speech-to-Text for accurate output   
 - 📜 Displays transcription history for each session    
