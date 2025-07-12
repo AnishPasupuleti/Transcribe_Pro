@@ -8,7 +8,7 @@
 - 📂 Upload files (MP3, MP4, WAV)           
 - 🧠 Uses Azure Speech-to-Text for accurate output     
 - 📜 Displays transcription history for each session    
-- 🧱 Lightweight and easy to deploy (Flask-based)    
+- 🧱 Lightweight and easy to deploy (Flask-based)     
  
 ## 🛠 Tech Stack
 
