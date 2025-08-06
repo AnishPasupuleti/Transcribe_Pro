@@ -10,7 +10,7 @@
 - 📜 Displays transcription history for each session                
 - 🧱 Lightweight and easy to deploy (Flask-based)        
    
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 - **Python**
 - **Flask**
